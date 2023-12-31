@@ -1,0 +1,6 @@
+polygon:mumbai:
+  contractState: 0x1e3781a44D2BC7886a3f481Ad362094CEd06B732
+  networkURL: https://polygon-mumbai.g.alchemy.com/v2/U8dKILdlLLRhfB_CzYjZ9gNB2eyBOWrb
+polygon:main:
+  contractState: 0xdc2A724E6bd60144Cde9DEC0A38a26C619d84B90
+  networkURL: https://polygon-mainnet.g.alchemy.com/v2/4z1MdqlPWsf2gGL5FCnlGUfgyhT3GgcI
