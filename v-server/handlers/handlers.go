@@ -32,7 +32,7 @@ var (
 )
 
 const (
-	URL = "https://2068-2402-d000-a400-5cd8-159-57f6-c7bd-1afc.ngrok-free.app"
+	URL = "https://1b05-112-134-208-202.ngrok-free.app"
 )
 
 type Handler struct {
